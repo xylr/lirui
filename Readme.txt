@@ -1,2 +1,4 @@
 hello world
 nihao
+
+2.应该各有优点,喜欢git
